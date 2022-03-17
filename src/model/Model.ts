@@ -5,5 +5,5 @@ export interface User {
 
 export interface UserAttribute {
   Name: string;
-  value: string;
+  Value: string;
 }
